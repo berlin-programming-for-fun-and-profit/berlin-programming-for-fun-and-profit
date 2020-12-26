@@ -1,6 +1,7 @@
 {
   "name": "berlin-programming-for-fun-and-profit",
   "version": "1.2.0",
+  "private": false,
   "description": "React version of BLK Design System by Creative Tim",
   "main": "index.js",
   "author": "Creative Tim",
